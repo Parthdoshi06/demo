@@ -1,3 +1,3 @@
 # demo
-This is my first Git repository \n
+This is my first Git repository \d
 Author : Parth Doshi
